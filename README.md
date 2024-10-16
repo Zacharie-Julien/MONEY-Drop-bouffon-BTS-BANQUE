@@ -1,2 +1,2 @@
-# MONEY-Drop-bouffon-BTS-BANQUE
+# MONEY-Drop-BTS-BANQUE
 Jeux Money Drop, en utilisant les thecnologie : JS, HTML, CSS, PHP
