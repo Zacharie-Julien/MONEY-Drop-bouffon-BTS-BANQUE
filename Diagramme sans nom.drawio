@@ -124,6 +124,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SCnsVuQ0XL_fHUprq9t2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SCnsVuQ0XL_fHUprq9t2-34" target="SCnsVuQ0XL_fHUprq9t2-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1490" y="640" />
+              <mxPoint x="130" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SCnsVuQ0XL_fHUprq9t2-34" value="Evaluation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="290" width="120" height="80" as="geometry" />
         </mxCell>
@@ -150,6 +158,12 @@
         </mxCell>
         <mxCell id="SCnsVuQ0XL_fHUprq9t2-44" value="Détermination des niveaux de difficulté / mini-jeux" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SCnsVuQ0XL_fHUprq9t2-46" value="Affichage du leaderBoard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SCnsVuQ0XL_fHUprq9t2-48" value="&lt;div&gt;Enregistrement du score dans le leaderBoard&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
